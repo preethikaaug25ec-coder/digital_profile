@@ -41,6 +41,10 @@
 
 ---
 
+## 📫 Contact Me
+- 📧 Email: preethikaa007@gmail.com
+
+---
   
 
 
