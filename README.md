@@ -40,9 +40,9 @@
 - LeetCode  
 
 ---
-
 ## 📫 Contact Me
+
 - 📧 Email: preethikaa007@gmail.com  
-- 📧 LinkedIn ID: https://www.linkedin.com/in/preethika-a-9ba37638a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 🔗 LinkedIn: [linkedin.com/in/preethika](https://www.linkedin.com/in/preethika-a-9ba37638a)
 ---
 
