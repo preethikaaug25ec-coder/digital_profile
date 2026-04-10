@@ -41,22 +41,8 @@
 
 ---
 
-## 🏆 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🏅 Badges
-![Python](https://img.shields.io/badge/Python-Beginner-blue)
-![C](https://img.shields.io/badge/C-Learning-green)
-![HTML](https://img.shields.io/badge/HTML-Basic-orange)
-![CSS](https://img.shields.io/badge/CSS-Basic-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow)
-
----
-
 ## 📫 Contact Me
 - 📧 Email: preethikaa007@gmail.com  
-
+- 📧 LinkedIn ID: https://www.linkedin.com/in/preethika-a-9ba37638a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
