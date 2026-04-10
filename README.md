@@ -41,8 +41,7 @@
 
 ---
 ## 📫 Contact Me
-
 - 📧 Email: preethikaa007@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/preethika](https://www.linkedin.com/in/preethika-a-9ba37638a)
+- 🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/preethika-a-9ba37638a)
 ---
 
